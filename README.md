@@ -3,5 +3,5 @@ Replays each song from a list of mp3s for an hour. Uses [vlc.py](http://git.vide
 ### Setup
 1. Clone the repo. 
 2. Put the files in the folder having songs.
-3. from terminal python replay.py
+3. In terminal start the script as `python replay.py`
 
